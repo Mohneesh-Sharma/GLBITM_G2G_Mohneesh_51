@@ -1,4 +1,4 @@
-//TO CHECH FOR NUMBER IS PERFECT OR NOT
+//TO CHECK FOR NUMBER IS PERFECT OR NOT
 #include <stdio.h>
 
 int main() {
